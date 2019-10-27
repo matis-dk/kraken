@@ -1,0 +1,11 @@
+{
+  "name": "kraken",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/matis-dk/kraken",
+  "author": "Mathias Piletti <mathiasp50@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.11.0"
+  }
+}
